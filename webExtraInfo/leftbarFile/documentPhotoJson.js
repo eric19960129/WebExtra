@@ -2,16 +2,7 @@ var jsonStrPhoto =
 '{\
  "types":[\
   {"type":"Photo","typeList":[\
-   {"name":"四神獸","index":0,"typeListInfos":[\
-    {"name":"四神獸","index":0,"msg":"\
-      青龍$$https://img.zcool.cn/community/01pmqiofcfcmi4verszirk3239.jpg;\
-      朱雀$$https://img.zcool.cn/community/01xpok4zhxxwtxyfhavdui3530.jpg;\
-      玄武$$https://img.zcool.cn/community/01kfrssolcm4h3fwc1pofi3335.jpg;\
-      白虎$$https://img.zcool.cn/community/01fdqyqaknr0tiu8xspp753434.jpg\
-      "\
-    }\
-   ]},\
-   {"name":"十二生肖","index":1,"typeListInfos":[\
+   {"name":"十二生肖","index":0,"typeListInfos":[\
     {"name":"十二生肖","index":0,"msg":"\
       鼠$$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJmJ37Onjj7Q0kuc8OpxmXYKeXwtHHeTttRLWRPxYzFg&s;\
       牛$$https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZ1po52RqmXJzfHfmKlI001BKC3eldkoNjlhakoL0KYRYbzcOV5i4c0DWyT5ygy0lM9s&usqp=CAU;\
@@ -28,7 +19,7 @@ var jsonStrPhoto =
       "\
     }\
    ]},\
-   {"name":"十大世界遺產","index":2,"typeListInfos":[\
+   {"name":"十大世界遺產","index":1,"typeListInfos":[\
     {"name":"十大世界遺產","index":0,"msg":"\
       祕魯 馬丘比丘$$https://obs.line-scdn.net/0h0Yah-hkEb3ZcEUSkSO0QIWZHbBlvfXx1OCc-dR9_MUIkciwgaCdzQ3BDMBN1JCgoMiMlEngYdEchdiglYX9z/w1200;\
       柬埔寨古都 吳哥遺址$$https://livedoor.blogimg.jp/yuhk0829/imgs/f/3/f37ca4d8.jpg;\
