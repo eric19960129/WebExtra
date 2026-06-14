@@ -770,7 +770,8 @@ var jsonStrGame =
   ]},\
   {"name":"線上遊戲","typeListInfos":[\
     {"name":"懷舊類型","index":0,"typeListInfo":[\
-      {"gameName":"記憶翻牌遊戲","extraPath":"","urlPath":"","path":"https://eric19960129.github.io/WebHub/WebGame/MemoryGame.html"}\
+      {"gameName":"記憶翻牌遊戲","extraPath":"","urlPath":"","path":"https://eric19960129.github.io/WebHub/WebGame/MemoryGame.html"},\
+      {"gameName":"俄羅斯方塊遊戲","extraPath":"","urlPath":"","path":"https://eric19960129.github.io/WebHub/WebGame/TetrisGame.html"}\
     ]}\
   ]}\
  ]}\
