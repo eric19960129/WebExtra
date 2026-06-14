@@ -769,7 +769,7 @@ var jsonStrGame =
    ]}\
   ]},\
   {"name":"線上遊戲","typeListInfos":[\
-    {"name":"懷舊類欸型","index":0,"typeListInfo":[\
+    {"name":"懷舊類型","index":0,"typeListInfo":[\
       {"gameName":"記憶翻牌遊戲","extraPath":"","urlPath":"","path":"https://eric19960129.github.io/WebHub/WebGame/MemoryGame.html"}\
     ]}\
   ]}\
