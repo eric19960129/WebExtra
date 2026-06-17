@@ -4,43 +4,34 @@ var jsonStrKnowleage =
   {"type":"knowleage","typeList":[\
    {"name":"生活知識","index":0,"typeListInfos":[\
     {"name":"生活上的多個Q","index":0,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vSwuj4m4NFWRYM9kagehkTBcwrXy_ZZNbdJmNYBipqfWOfgBnvqnV06gdUPKAAyQQ/pub?embedded=true></iframe>}$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/1buhTeNnDvuqYAcJ2N9YYyvv0En0k6MZp/preview></iframe>"\
     }\
    ]},\
    {"name":"科技知識","index":1,"typeListInfos":[\
     {"name":"HTTP VS HTTPS","index":0,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vRJUmGSb1sgixc66h_ERpNBKCDvlojQPLpGR4D5OYGfzCd_-vDdNTA-X0VmPyHtMw/pub?embedded=true></iframe>$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/1VZM4xHune8m4SpFjoY3wZEybNhXrmbm7/preview></iframe>"\
     },\
     {"name":"手機資訊名稱介紹","index":1,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vT0DyYmlU9q7_nexcltpXb7QCsk7Or40BHa8NM70TuKJ8B6u80CwRN6pv386Zf38A/pub?embedded=true></iframe>}$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/1H-SfOtKuQETorkl4EwpqZsbVjxdOR4ta/preview></iframe>"\
     },\
     {"name":"常見副檔名列表","index":2,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vSPYlzpaN0LiydbCXUj3zIJTyLDlbI1hMkKSON3Wio1PV4k2JCACY8sovApllvoyA/pub?embedded=true></iframe>}$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/1ZJqjidAEwYBGDKGmwSQQHCyqx-kJM_Jr/preview></iframe>"\
     },\
     {"name":"Git vs GitHub vs GitLab","index":3,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vQNKLYLuROaW2EprK25ilnFEAZeevmKLFHftrp3TX-WLfBrASGD6jTOOUSA-tBoHQ/pub?embedded=true></iframe>}$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/1qOtAbQQBaGuNJITTXvL7cBiKTPZ690FW/preview></iframe>"\
     },\
     {"name":"windows系統架設WebDAV","index":4,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vRUnYkdW4scJebja5T7igPjDdozq_Lh9DSKGOEfdofEvzC8Tzp5wfaf5IUj0Se80Q/pub?embedded=true></iframe>}$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/1JVqPhtILyN_6yawdmAeIC-4RtRtT57ad/preview></iframe>"\
     }\
    ]},\
    {"name":"安裝軟體","index":2,"typeListInfos":[\
     {"name":"Python安裝","index":0,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vQQLXk3s7lADi0YtzpjQd1pVUn7JoVMa-LylTan-MMKrHDzgEVvRWDnIJ7Ude9i4w/pub?embedded=true></iframe>}$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/1cPLeTJsvg3MY6KBMfYiu6GXDYd9GqZZC/preview></iframe>"\
     },\
     {"name":"SQL Server安裝","index":1,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vR4PUgJ27q4m_hOA4ziTTGTSq2sR0MMm8pKUCe5JvnG7Om4yDSsnK4z22r7GyQldA/pub?embedded=true></iframe>}$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/12HpBy3FKMT3DCsdtP00_BUVtqtdqna2E/preview></iframe>"\
     },\
     {"name":"Anaconda安裝","index":2,"msg":"\
-     <iframe id=frameObj width=100% frameborder=0 src=https://docs.google.com/document/d/e/2PACX-1vQHkFpGsK39c5kh4nFDOzjX999NAX67_dITihrA8xRM4xk5VA4Yor6R02kS6VTLiA/pub?embedded=true></iframe>}$$\
      <iframe id=frameObj width=100% frameborder=0 src=https://drive.google.com/file/d/153yMi7eL2P8N701LPnpWzrHxO9L87O0T/preview></iframe>"\
     }\
    ]},\
