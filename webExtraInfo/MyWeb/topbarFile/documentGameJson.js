@@ -39,7 +39,7 @@ var jsonStrGame =
     {"gameName":"GrandWorld0.2(金獅子)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1spg1hXpR_ebc7BVXkgNm3kL_lEqUIv0c/view?usp=sharing"},\
     {"gameName":"OPGL_v0.8","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1T-D3T_lZFsY8SCVZLI9RiORPA_ugUv1z/view?usp=sharing"},\
     {"gameName":"OPLoS v1.8.1","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1lFFHzWSD5e8KeIJOOhwHIn2YGhjFRN58/view?usp=sharing"},\
-    {"gameName":"OPLoS v2.1","extraPath":"","urlPath":"","path":"https://drive.google.com/drive/folders/19wzHjtDV6Uv5K6cyeAR44zOfXZlPgvw9?usp=sharing"},\
+    {"gameName":"OPLoS v2.1","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1PkgzmfnI9Cm2N0wdA7g0kRNZSXiXwZ5E/view?usp=sharing"},\
     {"gameName":"OPNW 0.3","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1NRt-vreqNn6ZLzKD5UIk2ZjEpJTva6Hv/view?usp=sharing"}\
    ]},\
    {"name":"七龍珠","index":4,"typeListInfo":[\
