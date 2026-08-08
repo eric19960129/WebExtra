@@ -4,25 +4,26 @@ var jsonStrGame =
  {"type":"GAME","typeList":[\
   {"name":"LF2","typeListInfos":[\
    {"name":"原版","index":0,"typeListInfo":[\
-    {"gameName":"LF2_2.0","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1n2AUsS5OlkO1Q4IPdDJFO6NyDt8wkHOj/view?usp=share_link"},\
     {"gameName":"LF2_Turbo 3","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1lYW7EwwH5r9lX3dBQ31qcWe1RjGqzx3h/view?usp=sharing"},\
-    {"gameName":"LF2-hero","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1DqTBpQmUrzdN9Fo6bbqS2APSQVtQcsd0/view?usp=sharing"},\
-    {"gameName":"LF11v6.0","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1MtK4rbjMEXHEq2zUOx-9dsYnpjkkiMXc/view?usp=sharing"},\
-    {"gameName":"LF2Sage","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1yWtPTnRrMaqsD6Ao27DtstUYT5N4RM2a/view?usp=sharing"},\
-    {"gameName":"S-LF2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1xcRHBioPUrFzs2sRjMoN2PluzdD8COf_/view?usp=sharing"},\
-    {"gameName":"W-LF2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1KVeekwhychWlzpFq3VTtF9-32LiBLFm0/view?usp=share_link"},\
-    {"gameName":"LF-S劍士版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1ElRHuRxNIJ2kB5xycHku_L73Ryz5SJze/view?usp=sharing"},\
-    {"gameName":"瘋狂LF2","extraPath":"","urlPath":"","path":"LF2https://drive.google.com/file/d/1u0GIZLRsZ4nrIVlRIBlSKMWzM0aZlOtb/view?usp=share_link"},\
-    {"gameName":"魔幻空戰 LF2 v3 (MagicTempest)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1JUl1DMzUMQwqAdP6X9evfa9bwHRVsNPO/view?usp=share_link"},\
+    {"gameName":"LF2_v1.9","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1Zoq_qt3SPJ7R9J4cUIeTI-QWPy_qaK3-/view?usp=sharing"},\
+    {"gameName":"LF2_v1.9c","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1VLmJrY5tvwpGf2Gpc5QpYqmwrqxEJbkH/view?usp=sharing"},\
+    {"gameName":"LF2_2.0","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1n2AUsS5OlkO1Q4IPdDJFO6NyDt8wkHOj/view?usp=share_link"},\
     {"gameName":"LF2-DR黑暗與正義","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1_6zX8_2x3elDbBkI1Il5wB8XxwST7n3M/view?usp=sharing"},\
+    {"gameName":"LF2-hero","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1DqTBpQmUrzdN9Fo6bbqS2APSQVtQcsd0/view?usp=sharing"},\
+    {"gameName":"LF2Sage","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1yWtPTnRrMaqsD6Ao27DtstUYT5N4RM2a/view?usp=sharing"},\
     {"gameName":"LF2小鈞改版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1SbuU2nJ3PxcFozQ2BxCBW6pWlM7nS6XM/view?usp=sharing"},\
+    {"gameName":"LF2凱特大改版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1eualFz5n1D6mzA9MXKiArcLX-9UHn8Ph/view?usp=sharing"},\
+    {"gameName":"LF3王子版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/11utWYbmYrFnzvZ8NBxlCTtqeFLf-slgJ/view?usp=sharing"},\
+    {"gameName":"LF11v6.0","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1MtK4rbjMEXHEq2zUOx-9dsYnpjkkiMXc/view?usp=sharing"},\
+    {"gameName":"LF-S劍士版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1ElRHuRxNIJ2kB5xycHku_L73Ryz5SJze/view?usp=sharing"},\
+    {"gameName":"New LF2 (新．LF2) v0.4","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1sRiKPpRSiZ0S-Z46KD2B4AP2z71kVPuq/view?usp=sharing"},\
+    {"gameName":"S-LF2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1xcRHBioPUrFzs2sRjMoN2PluzdD8COf_/view?usp=sharing"},\
     {"gameName":"SM-LF2(正式版)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1x3jq1n6_xR-elHOzxlt-y6WhQgmIUSW3/view?usp=sharing"},\
     {"gameName":"SM-LF2(非正式版)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/16olQckd6t6-7QYA-gfJH3bccwvZ5RlAQ/view?usp=sharing"},\
-    {"gameName":"SM-LF2(非正式版)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/16olQckd6t6-7QYA-gfJH3bccwvZ5RlAQ/view?usp=sharing"},\
-    {"gameName":"LF3王子版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/11utWYbmYrFnzvZ8NBxlCTtqeFLf-slgJ/view?usp=sharing"},\
-    {"gameName":"LF2凱特大改版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1eualFz5n1D6mzA9MXKiArcLX-9UHn8Ph/view?usp=sharing"},\
-    {"gameName":"New LF2 (新．LF2) v0.4","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1sRiKPpRSiZ0S-Z46KD2B4AP2z71kVPuq/view?usp=sharing"},\
-    {"gameName":"宿命之詛咒版(第三版)Doom of Predestination","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1DQyfchOFJ94Ac0T7EgN3esalpPaBhdVH/view?usp=sharing"}\
+    {"gameName":"W-LF2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1KVeekwhychWlzpFq3VTtF9-32LiBLFm0/view?usp=share_link"},\
+    {"gameName":"宿命之詛咒版(第三版)Doom of Predestination","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1DQyfchOFJ94Ac0T7EgN3esalpPaBhdVH/view?usp=sharing"},\
+    {"gameName":"瘋狂LF2","extraPath":"","urlPath":"","path":"LF2https://drive.google.com/file/d/1u0GIZLRsZ4nrIVlRIBlSKMWzM0aZlOtb/view?usp=share_link"},\
+    {"gameName":"魔幻空戰 LF2 v3 (MagicTempest)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1JUl1DMzUMQwqAdP6X9evfa9bwHRVsNPO/view?usp=share_link"}\
    ]},\
    {"name":"鋼彈","index":1,"typeListInfo":[\
     {"gameName":"LFRobots","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1-DhkLp_qZQ6sZRSJnI3BnxnjLUs7PCuf/view?usp=sharing"}\
@@ -33,14 +34,14 @@ var jsonStrGame =
     {"gameName":"LF2死神2.0","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1xg5NnVRi14mymSTFMS2hRS_kQ85-WLxZ/view?usp=sharing"}\
    ]},\
    {"name":"航海王","index":3,"typeListInfo":[\
-    {"gameName":"航海王1.6","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1bf7_OBLjWA5prbMIf-5U3nTUfp5n5B0v/view?usp=sharing"},\
-    {"gameName":"航海王1.7","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1ioZa12gHl8FDpDKLQOqGVFy_u9vJk5yK/view?usp=sharing"},\
     {"gameName":"GrandWorld","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/10N0dxywYmRUwqW4z3RSykWhf2rn8oUiL/view?usp=sharing"},\
     {"gameName":"GrandWorld0.2(金獅子)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1spg1hXpR_ebc7BVXkgNm3kL_lEqUIv0c/view?usp=sharing"},\
     {"gameName":"OPGL_v0.8","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1T-D3T_lZFsY8SCVZLI9RiORPA_ugUv1z/view?usp=sharing"},\
     {"gameName":"OPLoS v1.8.1","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1lFFHzWSD5e8KeIJOOhwHIn2YGhjFRN58/view?usp=sharing"},\
     {"gameName":"OPLoS v2.1","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1PkgzmfnI9Cm2N0wdA7g0kRNZSXiXwZ5E/view?usp=sharing"},\
-    {"gameName":"OPNW 0.3","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1NRt-vreqNn6ZLzKD5UIk2ZjEpJTva6Hv/view?usp=sharing"}\
+    {"gameName":"OPNW 0.3","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1NRt-vreqNn6ZLzKD5UIk2ZjEpJTva6Hv/view?usp=sharing"},\
+    {"gameName":"航海王1.6","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1bf7_OBLjWA5prbMIf-5U3nTUfp5n5B0v/view?usp=sharing"},\
+    {"gameName":"航海王1.7","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1ioZa12gHl8FDpDKLQOqGVFy_u9vJk5yK/view?usp=sharing"}\
    ]},\
    {"name":"七龍珠","index":4,"typeListInfo":[\
     {"gameName":"I-LF2(七龍珠)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1Ckw4BEqmkRJYftuA729klf4ZB-f7GtO4/view?usp=sharing"},\
@@ -58,8 +59,6 @@ var jsonStrGame =
     {"gameName":"newFTLF2v0.2改版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1MKF3613t20q_6tTWYTbZTv6DpR6yTwfD/view?usp=sharing"}\
    ]},\
    {"name":"火影忍者","index":7,"typeListInfo":[\
-    {"gameName":"火影LF2最初代","extraPath":"","urlPath":"","path":"https://drive.google.com/drive/folders/1xw8r3jp0Y-KX2C1psD6lr-MMI6gJ8vp0?usp=sharing"},\
-    {"gameName":"火影忍者強化版NPOD","extraPath":"","urlPath":"","path":"https://drive.google.com/drive/folders/1S-OV_Gf5LkK9bTJT2LuXG46f92jrGfrH?usp=sharing"},\
     {"gameName":"Naruto_Academy","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1xvhO7Blnnc7W7umbS6bk0MFd3SN_vmnC/view?usp=sharing"},\
     {"gameName":"NTAF 2.0","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/13RpoyH9Iw7X8bhM_cGdW_X6nC4FO506M/view?usp=sharing"},\
     {"gameName":"NTFTR 0.2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1-7pDICSdeZNK1RS0uU_US__Wex6e_T8E/view?usp=sharing"},\
@@ -84,7 +83,9 @@ var jsonStrGame =
     {"gameName":"NTSD Community Season 3","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1m0GfII8uI4bZw2uS0ZPLNz71IZ5AuT1i/view?usp=sharing"},\
     {"gameName":"NTSD Community Season 4","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1WpgiJiDOhm7NdLLWCS3ON3BTUT6L_JiQ/view?usp=sharing"},\
     {"gameName":"NTSD Community Season 5","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/11gdAeMaayVFLkeLs42n9KxpDLSCNqVkt/view?usp=sharing"},\
-    {"gameName":"NTSD Community Season 7","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1AGUu4iajuhvZW0Ye00xpAshe7yxbmxRX/view?usp=sharing"}\
+    {"gameName":"NTSD Community Season 7","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1AGUu4iajuhvZW0Ye00xpAshe7yxbmxRX/view?usp=sharing"},\
+    {"gameName":"火影LF2最初代","extraPath":"","urlPath":"","path":"https://drive.google.com/drive/folders/1xw8r3jp0Y-KX2C1psD6lr-MMI6gJ8vp0?usp=sharing"},\
+    {"gameName":"火影忍者強化版NPOD","extraPath":"","urlPath":"","path":"https://drive.google.com/drive/folders/1S-OV_Gf5LkK9bTJT2LuXG46f92jrGfrH?usp=sharing"}\
    ]},\
    {"name":"家庭教師","index":8,"typeListInfo":[\
     {"gameName":"家庭教師4.3版","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/15azyE6Kxu9ds7_DY2sk10xPIRNhvEb1c/view?usp=sharing"},\
@@ -107,16 +108,16 @@ var jsonStrGame =
     {"gameName":"All Stars BoF [BANKAI]_v0.5","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1QBjsIgPwgMNOffInTfLKnzFj2OeXcnN5/view?usp=sharing"}\
    ]},\
    {"name":"其他系列","index":12,"typeListInfo":[\
-    {"gameName":"另類巨商lf2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1B0QyLsW1wtTsit4avbjH5wpiqmlUXbOW/view?usp=sharing"},\
-    {"gameName":"異轉LFO-LF2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1LiGwhKbQxl520ZfTBghtX_Tjw4neu5rC/view?usp=sharing"},\
-    {"gameName":"楓之谷MapleElements0.5","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1a0F60cTVJLfQoIcxFaZBiTq9wFjAgR7C/view?usp=sharing"},\
-    {"gameName":"LF2_v2.0a_HongKongerFighter(香港鎮暴)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1qXW-7ijVid5jq0Fy-AWC0OefKU1crYsT/view?usp=sharing"},\
     {"gameName":"LF2.5太極","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1D06M0rAcwrB9GCrJ2p1UAgXyaKOQld7c/view?usp=sharing"},\
     {"gameName":"LF2.5火柴人","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1cSvKwkutqVWpAtlIkrxUSByfvnoZx50x/view?usp=sharing"},\
+    {"gameName":"LF2_v2.0a_HongKongerFighter(香港鎮暴)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1qXW-7ijVid5jq0Fy-AWC0OefKU1crYsT/view?usp=sharing"},\
     {"gameName":"LF2小新(Turbo3)","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1q_5WRvty_KpOChba4u9cR5Gu-Uamj9h_/view?usp=sharing"},\
     {"gameName":"LF2史瓦特槍手","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1a4slkP6tkM9qVD-VtiII3n7_u3XZn5c9/view?usp=sharing"},\
     {"gameName":"LF2軍隊WAR","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1F0oAwYW2xDVT8ZBBwkjkMXP0iztvWAdM/view?usp=sharing"},\
-    {"gameName":"MK-LF2真人快打","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/16SILtcE0MfXyXPqTjEpOARyfxewNnOO4/view?usp=sharing"}\
+    {"gameName":"MK-LF2真人快打","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/16SILtcE0MfXyXPqTjEpOARyfxewNnOO4/view?usp=sharing"},\
+    {"gameName":"另類巨商lf2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1B0QyLsW1wtTsit4avbjH5wpiqmlUXbOW/view?usp=sharing"},\
+    {"gameName":"異轉LFO-LF2","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1LiGwhKbQxl520ZfTBghtX_Tjw4neu5rC/view?usp=sharing"},\
+    {"gameName":"楓之谷MapleElements0.5","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1a0F60cTVJLfQoIcxFaZBiTq9wFjAgR7C/view?usp=sharing"}\
    ]}\
   ]},\
   {"name":"GBA","typeListInfos":[\
