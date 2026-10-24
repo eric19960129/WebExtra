@@ -171,6 +171,7 @@ var jsonStrGame =
     {"name":"遊戲王","index":2,"typeListInfo":[\
      {"gameName":"遊戲王5-雙重惡魔","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1Y1KzAMEm7HGvFYjyORzlVDCDy497PnJH/view?usp=sharing","gameLanguage":"日文"},\
      {"gameName":"遊戲王6-Expert 2","extraPath":"","urlPath":"https://mega.nz/folder/jEs0SayA#s2-Hd2FNU6HDTq7qObZVaA","path":"https://drive.google.com/file/d/1IsG2QmD1t9PO9a0izAW5B7iFVxUOX5MC/view?usp=sharing","gameLanguage":"簡中"},\
+     {"gameName":"遊戲王7-決鬥都市傳說","extraPath":"","urlPath":"","path":"https://drive.google.com/drive/folders/13AjnlY0gP1ojb7crsi7BBL9yjb6Qw_ma?usp=sharing","gameLanguage":"日文"},\
      {"gameName":"遊戲王8-破滅之大邪神","extraPath":"","urlPath":"https://mega.nz/folder/LFEWnDSY#TJznmRmBJM__S1hatcz_Rw","path":"https://drive.google.com/file/d/1t6Hb9Mk4bwToSTxmycEG_NN6Cn4oG2Ii/view?usp=sharing","gameLanguage":"簡中"},\
      {"gameName":"遊戲王-EX 2006","extraPath":"","urlPath":"https://mega.nz/folder/jUEjQTqJ#lHJamfpZpUpK2QMf3dWM7Q","path":"https://drive.google.com/file/d/1GGtknw_vntbJ5gs-1nrPdbEbyAjFThzB/view?usp=sharing","gameLanguage":"簡中"},\
      {"gameName":"遊戲王-Expert 3","extraPath":"","urlPath":"https://mega.nz/folder/eMUXRbzY#jZNFLvkdNHZAR8Dv4cnJGg","path":"https://drive.google.com/file/d/1rbUVBBmZn2BBOi1P6N_Hx5omgyYZPVvy/view?usp=sharing","gameLanguage":"簡中"},\
