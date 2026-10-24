@@ -169,9 +169,9 @@ var jsonStrGame =
      {"gameName":"GB悟空飛翔傳","extraPath":"","urlPath":"https://mega.nz/folder/7d8yTapC#rfgl64DHOxAGiJT0ehaGaQ","path":"https://drive.google.com/file/d/1gK1a4W6F98TMuzYo6x_yInUKhW-wlFL7/view?usp=sharing","gameLanguage":"日文"}\
     ]},\
     {"name":"遊戲王","index":2,"typeListInfo":[\
-     {"gameName":"遊戲王5-雙重惡魔","extraPath":"","urlPath":"","path":"https://drive.google.com/file/d/1Y1KzAMEm7HGvFYjyORzlVDCDy497PnJH/view?usp=sharing","gameLanguage":"日文"},\
+     {"gameName":"遊戲王5-雙重惡魔","extraPath":"","urlPath":"https://mega.nz/folder/mEl1jYAQ#DB6LK9z8bv59WJ8csKjxtw","path":"https://drive.google.com/file/d/1Y1KzAMEm7HGvFYjyORzlVDCDy497PnJH/view?usp=sharing","gameLanguage":"日文"},\
      {"gameName":"遊戲王6-Expert 2","extraPath":"","urlPath":"https://mega.nz/folder/jEs0SayA#s2-Hd2FNU6HDTq7qObZVaA","path":"https://drive.google.com/file/d/1IsG2QmD1t9PO9a0izAW5B7iFVxUOX5MC/view?usp=sharing","gameLanguage":"簡中"},\
-     {"gameName":"遊戲王7-決鬥都市傳說","extraPath":"","urlPath":"","path":"https://drive.google.com/drive/folders/13AjnlY0gP1ojb7crsi7BBL9yjb6Qw_ma?usp=sharing","gameLanguage":"日文"},\
+     {"gameName":"遊戲王7-決鬥都市傳說","extraPath":"","urlPath":"https://mega.nz/folder/WAMgAbBK#6JH2lMYLMJwmFbcLfcAT_A","path":"https://drive.google.com/drive/folders/13AjnlY0gP1ojb7crsi7BBL9yjb6Qw_ma?usp=sharing","gameLanguage":"日文"},\
      {"gameName":"遊戲王8-破滅之大邪神","extraPath":"","urlPath":"https://mega.nz/folder/LFEWnDSY#TJznmRmBJM__S1hatcz_Rw","path":"https://drive.google.com/file/d/1t6Hb9Mk4bwToSTxmycEG_NN6Cn4oG2Ii/view?usp=sharing","gameLanguage":"簡中"},\
      {"gameName":"遊戲王-EX 2006","extraPath":"","urlPath":"https://mega.nz/folder/jUEjQTqJ#lHJamfpZpUpK2QMf3dWM7Q","path":"https://drive.google.com/file/d/1GGtknw_vntbJ5gs-1nrPdbEbyAjFThzB/view?usp=sharing","gameLanguage":"簡中"},\
      {"gameName":"遊戲王-Expert 3","extraPath":"","urlPath":"https://mega.nz/folder/eMUXRbzY#jZNFLvkdNHZAR8Dv4cnJGg","path":"https://drive.google.com/file/d/1rbUVBBmZn2BBOi1P6N_Hx5omgyYZPVvy/view?usp=sharing","gameLanguage":"簡中"},\
@@ -180,7 +180,7 @@ var jsonStrGame =
      {"gameName":"遊戲王-怪獸對決GX-目標決鬥王！","extraPath":"","urlPath":"https://mega.nz/folder/OF0QXBAJ#TRQz2O9Ehjz8DHLyhUoIag","path":"https://drive.google.com/file/d/1WIQdMur_-WT3nt8_KoFUonttylHyjC5I/view?usp=sharing","gameLanguage":"日文"},\
      {"gameName":"遊戲王-怪獸龍門骰","extraPath":"","urlPath":"https://mega.nz/folder/aV9HQSYI#cqs22dEbKdMEPfR2t_WS4g","path":"https://drive.google.com/file/d/1Kd21QAAvgHf-8rkyf4b-1qfTr16vv3nf/view?usp=sharing","gameLanguage":"英文"},\
      {"gameName":"遊戲王-怪獸龍門骰","extraPath":"","urlPath":"https://mega.nz/folder/aV9HQSYI#cqs22dEbKdMEPfR2t_WS4g","path":"https://drive.google.com/file/d/1_uezE9q-nP61XxxN5fCst4Okiyc8DHzM/view?usp=sharing","gameLanguage":"日文"},\
-     {"gameName":"遊戲王-雙六的骰子","extraPath":"","urlPath":"","path":"https://drive.google.com/drive/folders/1W2P0wJM9MZVLjB6x-1WPNkdiz6I83_cj?usp=sharing","gameLanguage":"日文"}\
+     {"gameName":"遊戲王-雙六的骰子","extraPath":"","urlPath":"https://mega.nz/folder/zIUnUa4K#URyt6y3jAMY9El2mF-yP1g","path":"https://drive.google.com/drive/folders/1W2P0wJM9MZVLjB6x-1WPNkdiz6I83_cj?usp=sharing","gameLanguage":"日文"}\
     ]},\
     {"name":"洛克人","index":3,"typeListInfo":[\
      {"gameName":"洛克人","extraPath":"","urlPath":"https://mega.nz/folder/WAk0gAoY#Fo3yXgfqYJBjKuwxA2wdtg","path":"https://drive.google.com/file/d/1VbGodtaccw-6wsUVgv2laDptFceGjqpY/view?usp=sharing","gameLanguage":"英文"},\
